@@ -1,2 +1,2 @@
 # IN2010
-The course
+The course IN2010 - Algorithms and Data Structures is about constructing effective algorithms in order to collect and compute a large set of datas. If the algorithm is not efficient, then the algorithm cannot handle any computation of thousands or millions of samples of datas. Another important topic in this course is implementation of graphs from graph theory (see https://en.wikipedia.org/wiki/Graph_theory). The general study of graph theory lies in mathematics. The repository shows different algorithms we have implemented in Python, implementation of graphs and experimenting the algorithms can handle large sets of datas.
